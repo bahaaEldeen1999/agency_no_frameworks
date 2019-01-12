@@ -1,0 +1,10 @@
+#intro{
+    background-color: #FDDC57;
+    font-size: 2em;
+    color: #16293B;
+}
+
+#intro .button:hover{
+    color: #0AAB89 ;
+    background: #EEEEEE
+}

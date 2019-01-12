@@ -1,0 +1,50 @@
+#testimonial .about-col1 {
+    padding: 50px;
+    padding-top: 150px
+    
+    }
+    #testimonial .button{
+        margin: 40px 10px;
+        border: 1px solid black
+    }
+    #testimonial .button:hover{
+        background: #FDDC57;
+        color: white
+    }
+    .about-col1 h1{
+        border-left: 3px solid #FDDC57;
+        padding: 0 20px
+    }
+    .about-col2 img{
+        width:150px;
+        height: 150px;
+        border-radius: 50%;
+       
+        
+    }
+    .about-col2  .divImg{
+        padding: 20px 5px;
+       text-align: center;
+      
+       
+    }
+    .row-4-8{
+        display: grid;
+        grid-template-columns: 4fr 8fr;
+        padding-top: 20px
+        
+       
+    }
+    .row-4-8 .col1 ,     .row-4-8 .col2 {
+        padding: 20px;
+        padding-top:0
+    }
+    .row-4-8 .col1{
+        text-align: center;
+        padding-top : 20px
+    }
+    .row-4-8 .col1 div img{
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+    }

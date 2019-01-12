@@ -1,0 +1,32 @@
+.carousel-item2{
+    color: #16293B;
+    padding-top: 0;
+    text-align: left;
+    position: absolute;
+   top:0;
+   left:0;
+   right:0;
+   bottom:0;
+    z-index: 1;
+    overflow: hidden;
+    /* animation: prev 1s ease-in-out 1 forwards; */
+    
+    
+ }
+ .carousel-item img{
+    opacity: .95;
+ }
+ .carousel-item img:hover{
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+#chooseUs .carousel-icons i{
+    position: absolute;
+    border-radius: 50%;
+    padding: 5px;
+    border:1px solid white;
+    cursor: pointer;
+    z-index: 3;
+    color: white
+}

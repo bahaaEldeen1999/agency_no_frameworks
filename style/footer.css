@@ -1,0 +1,76 @@
+.row-3-9{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    padding: 10px
+}
+#footer{
+    font-size: .8em;
+    background-color: #222222
+}
+#footer h1,#footer h2 , #footer h4 , #footer h3{
+    color: white;
+    font-weight: bold
+}
+#footer .mainText , #footer p, #footer i, #footer li{
+    color: #8D8D8D
+}
+#footer .latestNews img{
+    height: 60px;
+    width: 60px
+}
+#footer ul{
+    padding-left:0
+}
+#footer li{
+    padding: 10px 0;
+    width: 80%;
+    border-bottom: 1px dashed #8D8D8D
+}
+#footer .inputEmail{
+    
+   
+    font-size: 1em
+}
+#footer .inputEmail input{
+margin-top: 20px ;
+padding: 20px 10px;
+border: none;
+outline: none;
+display: inline-block;
+background: #1A1A1A;
+color: #8D8D8D;
+
+
+}
+#footer .inputEmail i{
+    
+    height: 56px;
+    background-color: #BDBDBD;
+    
+    text-align: center;
+    display: inline-block;
+   
+    margin: 0
+}
+#footer .logo{
+    font-size: 3em
+}
+#footer .icons i{
+    padding: 5px
+}
+#footer .icons span{
+    font-size: 2em;
+    color: #8D8D8D
+}
+#footer .icons i:hover{
+   color:white
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background: #1B1B1B;
+    color: white
+}
+footer h2{
+    margin: 0
+}

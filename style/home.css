@@ -1,0 +1,30 @@
+#home{
+    
+    background-image:  url('../images/homeBG.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    
+   
+}
+#home .over{
+    padding-bottom: 10px;
+    height: 100vh;
+   
+}
+#home .heading-1{
+    color: #FDDC57;
+    margin:  .85em 0
+}
+
+.bottom-icon {
+text-align: center;
+padding-top: 60px ;
+
+padding-bottom: 40px
+}
+.bottom-icon i{
+position: absolute;
+bottom: 10px;
+color: #FDDC57
+
+}
